@@ -1,20 +1,20 @@
 /**************************************************************
- * fbAppClass - Copyright 2012 RazorWire Solutions, Inc.  
+   fbAppClass - Copyright 2012 RazorWire Solutions, Inc.  
  **************************************************************
- *
- * Facebook App User Management Class
- * For use with Facebook PHP SDK 3.1.1
- *
- *  REQUIREMENTS:
- *      - PHP5+, with pdo_mysql
- *      - MySQL5+
- *      - Facebook PHP SDK 3.1.1 (included)
- *
- * @package fbAppClass
- * @author RWSDev Team (Jason Becht)
- * @version 1.0
- * @copyright 2012
- * 
+ 
+  Facebook App User Management Class
+  For use with Facebook PHP SDK 3.1.1
+ 
+   REQUIREMENTS:
+       - PHP5+, with pdo_mysql
+       - MySQL5+
+       - Facebook PHP SDK 3.1.1 (included)
+ 
+  @package fbAppClass
+  @author RWSDev Team (Jason Becht)
+  @version 1.0
+  @copyright 2012
+  
  **************************************************************/
 
 
