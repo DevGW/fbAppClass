@@ -8,7 +8,7 @@
  *  REQUIREMENTS:
  *      - PHP5+, with pdo_mysql
  *      - MySQL5+
- *      - Facebook PHP SDK 3.1.1
+ *      - Facebook PHP SDK 3.1.1 (included)
  *
  * @package fbAppClass
  * @author RWSDev Team (Jason Becht)
